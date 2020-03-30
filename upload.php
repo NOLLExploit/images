@@ -1,6 +1,6 @@
 <?php
 $sharexdir = ""; //This is your file dir, also the link..
-$domain_url = 'https://nollexploit.github.io/images/';
+$domain_url = 'http://nollexploit.github.io/images/';
 $lengthofstring = 8; //Length of the file name
 
 function RandomString($length) {
